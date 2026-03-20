@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Jacket KLS Beige",
+    "price": 105,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": [
+      "/assets/images/klassik/jackets/jackets-1.png",
+      "/assets/images/klassik/jackets/jackets-10.png"
+    ]
+  },
+  {
+    "name": "Jacket KLS Black",
+    "price": 80,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-2.png"]
+  },
+  {
+    "name": "Jacket KLS Graphite",
+    "price": 70,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-3.png"]
+  },
+  {
+    "name": "Jacket KLS Blue",
+    "price": 105,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-4.png"]
+  },
+  {
+    "name": "Jacket KLS Yellow",
+    "price": 80,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-5.png"]
+  },
+  {
+    "name": "Jacket KLS Brown",
+    "price": 70,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-6.png"]
+  },
+  {
+    "name": "Jacket KLS Green",
+    "price": 105,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-7.png"]
+  },
+  {
+    "name": "Jacket KLS Gray",
+    "price": 80,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-8.png"]
+  },
+  {
+    "name": "Jacket KLS Light Green",
+    "price": 70,
+    "collection": "klassik",
+    "category": "jackets",
+    "imageUrls": ["/assets/images/klassik/jackets/jackets-9.png"]
+  },
+  {
+    "name": "Trouser KLS Blue",
+    "price": 110,
+    "collection": "klassik",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/klassik/trousers/trousers-10.png"]
+  },
+  {
+    "name": "Trouser KLS Brown",
+    "price": 110,
+    "collection": "klassik",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/klassik/trousers/trousers-11.png"]
+  },
+  {
+    "name": "Trouser KLS Black",
+    "price": 110,
+    "collection": "klassik",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/klassik/trousers/trousers-12.png"]
+  },
+  {
+    "name": "Trouser KLS Light Green",
+    "price": 110,
+    "collection": "klassik",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/klassik/trousers/trousers-13.png"]
+  },
+  {
+    "name": "Trouser KLS Graphite",
+    "price": 110,
+    "collection": "klassik",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/klassik/trousers/trousers-14.png"]
+  },
+  {
+    "name": "Shirt KLS White",
+    "price": 125,
+    "collection": "klassik",
+    "category": "shirts",
+    "imageUrls": ["/assets/images/klassik/shirts/shirts-15.png"]
+  },
+  {
+    "name": "Shorts KLS Brown",
+    "price": 75,
+    "collection": "klassik",
+    "category": "shorts",
+    "imageUrls": ["/assets/images/klassik/shorts/shorts-16.png"]
+  },
+  {
+    "name": "Shorts KLS Graphite",
+    "price": 75,
+    "collection": "klassik",
+    "category": "shorts",
+    "imageUrls": ["/assets/images/klassik/shorts/shorts-17.png"]
+  },
+  {
+    "name": "Shorts KLS Black",
+    "price": 75,
+    "collection": "klassik",
+    "category": "shorts",
+    "imageUrls": ["/assets/images/klassik/shorts/shorts-18.png"]
+  },
+  {
+    "name": "Shorts KLS Yellow",
+    "price": 75,
+    "collection": "klassik",
+    "category": "shorts",
+    "imageUrls": ["/assets/images/klassik/shorts/shorts-19.png"]
+  },
+  {
+    "name": "Shorts KLS Light Green",
+    "price": 75,
+    "collection": "klassik",
+    "category": "shorts",
+    "imageUrls": ["/assets/images/klassik/shorts/shorts-20.png"]
+  },
+  {
+    "name": "Shorts KLS Blue",
+    "price": 75,
+    "collection": "klassik",
+    "category": "shorts",
+    "imageUrls": ["/assets/images/klassik/shorts/shorts-21.png"]
+  },
+  {
+    "name": "Shorts KLS Green",
+    "price": 75,
+    "collection": "klassik",
+    "category": "shorts",
+    "imageUrls": ["/assets/images/klassik/shorts/shorts-22.png"]
+  },
+  {
+    "name": "Olympians SS Grey",
+    "price": 165,
+    "collection": "supersport",
+    "category": "olympians",
+    "imageUrls": ["/assets/images/supersport/olympians/olympians-23.png"]
+  },
+  {
+    "name": "Olympians SS Blue",
+    "price": 165,
+    "collection": "supersport",
+    "category": "olympians",
+    "imageUrls": ["/assets/images/supersport/olympians/olympians-24.png"]
+  },
+  {
+    "name": "Olympians SS Black",
+    "price": 165,
+    "collection": "supersport",
+    "category": "olympians",
+    "imageUrls": ["/assets/images/supersport/olympians/olympians-25.png"]
+  },
+  {
+    "name": "Olympians SS Brown",
+    "price": 165,
+    "collection": "supersport",
+    "category": "olympians",
+    "imageUrls": ["/assets/images/supersport/olympians/olympians-26.png"]
+  },
+  {
+    "name": "Trousers SS Grey",
+    "price": 165,
+    "collection": "supersport",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/supersport/trousers/trousers-27.png"]
+  },
+  {
+    "name": "Trousers SS Blue",
+    "price": 165,
+    "collection": "supersport",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/supersport/trousers/trousers-28.png"]
+  },
+  {
+    "name": "Trousers SS Black",
+    "price": 165,
+    "collection": "supersport",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/supersport/trousers/trousers-29.png"]
+  },
+  {
+    "name": "Trousers SS Brown",
+    "price": 165,
+    "collection": "supersport",
+    "category": "trousers",
+    "imageUrls": ["/assets/images/supersport/trousers/trousers-30.png"]
+  }
+]

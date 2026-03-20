@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: fable-shop-backend
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: fable-shop
+server:
+  port: 8080
